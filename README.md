@@ -19,7 +19,7 @@
 <br/>  
 
 
-<h1>My Skill Set </h1> 
+<h1 align = "center">My Skill Set </h1> 
 
 <div align = "center">
 
@@ -71,7 +71,7 @@
 
 <br/>  
 
-<h1> Github Stats </h1>
+<h1 align = " center "> Github Stats </h1>
  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AllanChristianG&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
