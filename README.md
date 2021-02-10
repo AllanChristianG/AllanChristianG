@@ -5,7 +5,7 @@
   
  <p align = "center"> - I’m currently... </p>
  
- <p align = "center">- working on [Ecompra](https://github.com/Ecompra-PI/ECOmpra-PI)</p>
+ <p align = "center">- working on Ecompra https://github.com/Ecompra-PI/ECOmpra-PI </p>
   
 
 <p align = "center">- 🎓 Learning Java, Angular, C# and .Net</p>   
