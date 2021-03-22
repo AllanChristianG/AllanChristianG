@@ -5,10 +5,10 @@
   
  <p align = "center"> - I’m currently... </p>
  
- <p align = "center">- working on Ecompra https://github.com/Ecompra-PI/ECOmpra-PI </p>
+ <p align = "center">- working on Blog Pessoal https://github.com/AllanChristianG/blogPessoal </p>
   
 
-<p align = "center">- 🎓 Learning Java, Angular, C# and .Net</p>   
+<p align = "center">- 🎓 Learning Java and Angular</p>   
   
 
 <p align = "center">- ⚡ Fun fact: Did I already say I like coffee?</p>  
