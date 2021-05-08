@@ -8,7 +8,7 @@
  <p align = "center">- working on Blog Pessoal https://github.com/AllanChristianG/blogPessoal </p>
   
 
-<p align = "center">- 🎓 Learning Java and Angular</p>   
+<p align = "center">- 🎓 Learning JavaScript, React, node and MongoDB</p>   
   
 
 <p align = "center">- ⚡ Fun fact: Did I already say I like coffee?</p>  
