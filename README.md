@@ -4,8 +4,6 @@
   
   
  <p align = "center"> - I’m currently... </p>
- 
- <p align = "center">- working on Blog Pessoal https://github.com/AllanChristianG/blogPessoal </p>
   
 
 <p align = "center">- 🎓 Learning JavaScript, React, node and MongoDB</p>   
